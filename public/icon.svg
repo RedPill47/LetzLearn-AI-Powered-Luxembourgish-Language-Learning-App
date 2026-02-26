@@ -1,0 +1,14 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="37" fill="#2563EB"/>
+  <rect x="65" y="25" width="50" height="130" rx="8" fill="url(#luxembourg-gradient)"/>
+  <defs>
+    <linearGradient id="luxembourg-gradient" x1="90" y1="25" x2="90" y2="155" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="33%" stop-color="#EF4444"/>
+      <stop offset="33%" stop-color="#FFFFFF"/>
+      <stop offset="66%" stop-color="#FFFFFF"/>
+      <stop offset="66%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+</svg>
